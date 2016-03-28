@@ -1,3 +1,3 @@
 import datetime
 
-print datatime.datetime.now()
+print datetime.datetime.now()
